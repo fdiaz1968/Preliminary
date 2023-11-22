@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/fralfaro/DS-Python-Course/1_Limpieza_procesamiento_transformacion/</loc>
+         <lastmod>2023-11-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/fralfaro/DS-Python-Course/__init__/</loc>
          <lastmod>2023-11-22</lastmod>
          <changefreq>daily</changefreq>
